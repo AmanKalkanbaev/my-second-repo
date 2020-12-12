@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+nav ul{
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav p{
+    font-size: 20px;
+    margin-top: 10px;
+}
+li{
+    list-style-type: none;
+    margin: 10px;
+}
